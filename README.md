@@ -7,3 +7,7 @@ To start:
 To build:
 
 `yarn build`
+
+To deploy:
+
+`yarn deploy`
